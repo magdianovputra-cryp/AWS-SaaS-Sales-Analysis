@@ -92,3 +92,9 @@ Dalam dataset ini, terdapat 19 kolom dengan berbagai tipe data, yaitu numerik da
 - Retensi Pelanggan Baru Bernilai Tinggi: Fokus pada retensi pelanggan baru yang memiliki nilai pembelian tinggi (New Cust High Value) dengan strategi onboarding yang efektif, penawaran khusus, dan komunikasi yang personal untuk mengubah mereka menjadi pelanggan loyal jangka panjang.
 - Dorong repeat purchase cepat untuk New Cust Low Value dengan voucher pembelian kedua, edukasi produk, dan promosi personalisasi untuk membangun engagement awal.
 - Lakukan reaktivasi campaign personal untuk Cust At Risk, supaya menghindari mereka benar-benar churn. Karena segment ini masih mempunyai kontribusi yang cukup besar dalam penjualan.
+
+## Link Dashboard Tableau
+https://public.tableau.com/app/profile/magdianov.putra/viz/AWSSaaSSalesDashboard_17603588379630/AWSSaaSSalesDashboard?publish=yes
+
+## Link Slide Presentasi
+https://www.canva.com/design/DAG1wy-Tnfk/joXMymvX-kQ_0QwNEznMVg/view?utm_content=DAG1wy-Tnfk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h97cf8cda47
